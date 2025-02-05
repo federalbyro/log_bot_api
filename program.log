@@ -1,0 +1,4 @@
+2025-02-05 23:53:49,549, INFO, message is not, __main__
+2025-02-05 23:53:49,550, WARNING, big, __main__
+2025-02-05 23:53:49,551, ERROR, bot error, __main__
+2025-02-05 23:53:49,552, CRITICAL, critical, __main__
